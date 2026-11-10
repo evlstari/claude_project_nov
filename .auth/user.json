@@ -1,0 +1,106 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.849573621.1794299548",
+      "domain": ".mceasy.cloud",
+      "path": "/",
+      "expires": 1828859555.014197,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "domain",
+      "value": "identity-staging",
+      "domain": ".mceasy.cloud",
+      "path": "/",
+      "expires": 1794385954.229914,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "resource",
+      "value": "tB4qe393Bas8eeWl353eJk4C7n4tt1egEXaGa5944v07cBcWZ0JTL3c5axe5cec7Q3zeSFy2c74c4G679nnl4ilLKJ3xNEdc3z4qd56ebb1Iiec0zSb38MNOdaJk4Llo09xEq3wam5PD33ybeyPPRCby4esCTc98Qeaf797dnaZa5dFHLb4fx9Lm3X1l7313b3yPWytO33C7dQeJWWj9NCK4la1c09L5h3wiCUjAkE5l370YkYZOo3P273Ecx409",
+      "domain": ".mceasy.cloud",
+      "path": "/",
+      "expires": 1794385954.453952,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_L6NVEPZ2CT",
+      "value": "GS2.1.s1794299548$o1$g1$t1794299554$j54$l0$h0",
+      "domain": ".mceasy.cloud",
+      "path": "/",
+      "expires": 1828859554.927555,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_35HSF64BY4",
+      "value": "GS2.1.s1794299549$o1$g1$t1794299555$j54$l0$h0",
+      "domain": ".mceasy.cloud",
+      "path": "/",
+      "expires": 1828859555.013321,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://websms-staging.mceasy.cloud",
+      "localStorage": [
+        {
+          "name": "wsToken",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjMwNDIsImNvbXBhbnlJZCI6MTI3OCwibmFtZXNwYWNlIjoidnNtcyIsImlhdCI6MTc5NDI5OTU1NywiZXhwIjoxNzk0MzQyNzU3fQ.oQ57mxMhzwMEOqBxr6QALfIp64u_ExlrJ7LsNRjv38I"
+        },
+        {
+          "name": "mc-storage",
+          "value": "{\"report\":{}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://identity-staging.mceasy.cloud",
+      "localStorage": [
+        {
+          "name": "__mpq_ebe0a076c9e3f0fb1c985528e6ac2fd9_ev",
+          "value": "[{\"id\":\"tmbpr9527yu63k8h\",\"flushAfter\":1794299560804,\"payload\":{\"event\":\"$mp_web_page_view\",\"properties\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$referrer\":\"https://websms-staging.mceasy.cloud/\",\"$referring_domain\":\"websms-staging.mceasy.cloud\",\"$current_url\":\"https://identity-staging.mceasy.cloud/login?platform=websms&resource=WU9JcExnc2YweU9qKytXc28xSTFrMXMyeGRtTXVEb2U1QjdCRlNkS2JTa1QrMWRmNFFRdDBFRWtWZmYzb0tZcWw0V2VFNkJocHV1STRkRURKSk0zRjVjL1lCYlp2M0thZUdsV3JmUFcxSnQ3MU02dnN3Y0NITk1PZm9qaWFJVXNrVXJuVEZhUVpaV3\",\"$browser_version\":158,\"$screen_height\":1080,\"$screen_width\":1920,\"mp_lib\":\"web\",\"$lib_version\":\"2.85.0\",\"$insert_id\":\"0cdkvehlg8f93r2u\",\"time\":1794299550.804,\"distinct_id\":\"$device:f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"$device_id\":\"f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"$initial_referrer\":\"https://websms-staging.mceasy.cloud/\",\"$initial_referring_domain\":\"websms-staging.mceasy.cloud\",\"current_page_title\":\"Login\",\"current_domain\":\"identity-staging.mceasy.cloud\",\"current_url_path\":\"/login\",\"current_url_protocol\":\"https:\",\"current_url_search\":\"?platform=websms&resource=WU9JcExnc2YweU9qKytXc28xSTFrMXMyeGRtTXVEb2U1QjdCRlNkS2JTa1QrMWRmNFFRdDBFRWtWZmYzb0tZcWw0V2VFNkJocHV1STRkRURKSk0zRjVjL1lCYlp2M0thZUdsV3JmUFcxSnQ3MU02dnN3Y0NITk1PZm9qaWFJVXNrVXJuVEZhUVpaV3BuWHRoSnNmMWNyK3dKV0EzUzNIK0hwMlJmZTNKcloyd\",\"$mp_autocapture\":true,\"token\":\"ebe0a076c9e3f0fb1c985528e6ac2fd9\",\"mp_sent_by_lib_version\":\"2.85.0\"}}},{\"id\":\"rdrcwetu7tz4dah6\",\"flushAfter\":1794299564333,\"payload\":{\"event\":\"$identify\",\"properties\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$referrer\":\"https://websms-staging.mceasy.cloud/\",\"$referring_domain\":\"websms-staging.mceasy.cloud\",\"$current_url\":\"https://identity-staging.mceasy.cloud/login?platform=websms&resource=WU9JcExnc2YweU9qKytXc28xSTFrMXMyeGRtTXVEb2U1QjdCRlNkS2JTa1QrMWRmNFFRdDBFRWtWZmYzb0tZcWw0V2VFNkJocHV1STRkRURKSk0zRjVjL1lCYlp2M0thZUdsV3JmUFcxSnQ3MU02dnN3Y0NITk1PZm9qaWFJVXNrVXJuVEZhUVpaV3\",\"$browser_version\":158,\"$screen_height\":1080,\"$screen_width\":1920,\"mp_lib\":\"web\",\"$lib_version\":\"2.85.0\",\"$insert_id\":\"cdohcd0ji7ibkx31\",\"time\":1794299554.333,\"distinct_id\":\"identity.Subscription Release.3042\",\"$device_id\":\"f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"$initial_referrer\":\"https://websms-staging.mceasy.cloud/\",\"$initial_referring_domain\":\"websms-staging.mceasy.cloud\",\"env\":\"release\",\"App\":\"vsms\",\"App Platform\":\"web\",\"Access Rights\":\"Administrator\",\"$user_id\":\"identity.Subscription Release.3042\",\"$anon_distinct_id\":\"$device:f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"token\":\"ebe0a076c9e3f0fb1c985528e6ac2fd9\",\"mp_sent_by_lib_version\":\"2.85.0\"}}},{\"id\":\"fh1osjgwf0imcqv1\",\"flushAfter\":1794299564336,\"payload\":{\"event\":\"Sign In Identity\",\"properties\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$referrer\":\"https://websms-staging.mceasy.cloud/\",\"$referring_domain\":\"websms-staging.mceasy.cloud\",\"$current_url\":\"https://identity-staging.mceasy.cloud/login?platform=websms&resource=WU9JcExnc2YweU9qKytXc28xSTFrMXMyeGRtTXVEb2U1QjdCRlNkS2JTa1QrMWRmNFFRdDBFRWtWZmYzb0tZcWw0V2VFNkJocHV1STRkRURKSk0zRjVjL1lCYlp2M0thZUdsV3JmUFcxSnQ3MU02dnN3Y0NITk1PZm9qaWFJVXNrVXJuVEZhUVpaV3\",\"$browser_version\":158,\"$screen_height\":1080,\"$screen_width\":1920,\"mp_lib\":\"web\",\"$lib_version\":\"2.85.0\",\"$insert_id\":\"pwrzws2zn0eul7te\",\"time\":1794299554.336,\"distinct_id\":\"identity.Subscription Release.3042\",\"$device_id\":\"f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"$initial_referrer\":\"https://websms-staging.mceasy.cloud/\",\"$initial_referring_domain\":\"websms-staging.mceasy.cloud\",\"env\":\"release\",\"App\":\"vsms\",\"App Platform\":\"web\",\"Access Rights\":\"Administrator\",\"$user_id\":\"identity.Subscription Release.3042\",\"company_name\":[\"Subscription Release\"],\"token\":\"ebe0a076c9e3f0fb1c985528e6ac2fd9\",\"mp_sent_by_lib_version\":\"2.85.0\"}}}]"
+        },
+        {
+          "name": "__mpq_ebe0a076c9e3f0fb1c985528e6ac2fd9_pp:X",
+          "value": "1794299554335|0.788489803321003"
+        },
+        {
+          "name": "___ug___",
+          "value": "{\"history\":[\"https://identity-staging.mceasy.cloud/login?platform=websms&resource=WU9JcExnc2YweU9qKytXc28xSTFrMXMyeGRtTXVEb2U1QjdCRlNkS2JTa1QrMWRmNFFRdDBFRWtWZmYzb0tZcWw0V2VFNkJocHV1STRkRURKSk0zRjVjL1lCYlp2M0thZUdsV3JmUFcxSnQ3MU02dnN3Y0NITk1PZm9qaWFJVXNrVXJuVEZhUVpaV3BuWHRoSnNmMWNyK3dKV0EzUzNIK0hwMlJmZTNKcloydWFzZnBIdTZabnZrUmprQjZjUHBET0NBRnRXZk0zTDd4UTIycHF4b3lOdGp6OEtENmhyRTNGYUxlUEVhT2RaWFVvQlVMUXg0T0lFQzVlb3ZaNHVVZndKdGFmMzQvanhUc1FzWFpLY2pTMHZHSXp6YmRUcGlNelJoZzFtRG03S0FIcG5Dc09Kem9IN2RtUVlWaE1oRkRxNkRuK21JS1pSMWtHTFRrVE52QjcrVTdUeWRqcUE3Ull0QmdsazlvRGtFRHp1dEozaDN4a2d6Rnl0U1ovZEZE\"]}"
+        },
+        {
+          "name": "persist:userguiding",
+          "value": "{\"common\":\"{\\\"searchActive\\\":false,\\\"selectedGuideId\\\":null,\\\"editedHotspotGroupId\\\":null,\\\"editedHotspotIndex\\\":null,\\\"fetching\\\":false,\\\"sidebarOnRight\\\":false,\\\"selectedStepIndex\\\":null,\\\"guideEditorCollapsed\\\":false}\",\"contentUI\":\"{\\\"step\\\":{}}\",\"guidePreview\":\"{\\\"active\\\":false,\\\"fromGuideEditor\\\":false,\\\"guidePreview\\\":false,\\\"isReady\\\":false,\\\"loading\\\":true,\\\"previewedGuideId\\\":0,\\\"previewedStepIndex\\\":null,\\\"previewing\\\":false,\\\"shouldOverlay\\\":true,\\\"urlChangeCount\\\":0,\\\"applyDelay\\\":true,\\\"keepBackdrop\\\":false}\",\"hotspotPreview\":\"{\\\"previewedHotspotGroupId\\\":0,\\\"previewedHotspotIndex\\\":0,\\\"urlChangeCount\\\":0,\\\"isSinglePreview\\\":false,\\\"isEditorPreview\\\":false}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "__mpq_ebe0a076c9e3f0fb1c985528e6ac2fd9_gr",
+          "value": "[{\"id\":\"95mdzzrj0w8ur8qa\",\"flushAfter\":1794299564335,\"payload\":{\"$set\":{},\"$group_key\":\"company_name\",\"$group_id\":\"Subscription Release\",\"$token\":\"ebe0a076c9e3f0fb1c985528e6ac2fd9\"}}]"
+        },
+        {
+          "name": "__mpq_ebe0a076c9e3f0fb1c985528e6ac2fd9_pp",
+          "value": "[{\"id\":\"brgk710r80vv8yxp\",\"flushAfter\":1794299564332,\"payload\":{\"$set_once\":{\"$initial_referrer\":\"https://websms-staging.mceasy.cloud/\",\"$initial_referring_domain\":\"websms-staging.mceasy.cloud\"},\"$token\":\"ebe0a076c9e3f0fb1c985528e6ac2fd9\",\"$distinct_id\":\"identity.Subscription Release.3042\",\"$device_id\":\"f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"$user_id\":\"identity.Subscription Release.3042\"}},{\"id\":\"esi49k7fodd9xrih\",\"flushAfter\":1794299564334,\"payload\":{\"$set\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$browser_version\":158,\"Company Name\":\"Subscription Release\",\"$email\":\"edev@mail.com\",\"User Id\":3042},\"$token\":\"ebe0a076c9e3f0fb1c985528e6ac2fd9\",\"$distinct_id\":\"identity.Subscription Release.3042\",\"$device_id\":\"f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"$user_id\":\"identity.Subscription Release.3042\"}}]"
+        },
+        {
+          "name": "mp_ebe0a076c9e3f0fb1c985528e6ac2fd9_mixpanel",
+          "value": "{\"distinct_id\":\"identity.Subscription Release.3042\",\"$device_id\":\"f9f2ae50-af2a-4b09-82b1-bf0323f52e1d\",\"$initial_referrer\":\"https://websms-staging.mceasy.cloud/\",\"$initial_referring_domain\":\"websms-staging.mceasy.cloud\",\"__mps\":{},\"__mpso\":{},\"__mpus\":{},\"__mpa\":{},\"__mpu\":{},\"__mpr\":[],\"__mpap\":[],\"env\":\"release\",\"App\":\"vsms\",\"App Platform\":\"web\",\"Access Rights\":\"Administrator\",\"$user_id\":\"identity.Subscription Release.3042\",\"company_name\":[\"Subscription Release\"]}"
+        },
+        {
+          "name": "ug-guide-events",
+          "value": "{\"start\":false,\"complete\":false,\"steps\":[]}"
+        }
+      ]
+    }
+  ]
+}
